@@ -24,4 +24,4 @@ Settings → Pages → Source: main / root → Save.
 - spacing, maxDots (density), pullStrength, sigmaMult, minScaleAtCenter
 
 ## License
-MIT
+CC BY-NC-ND 4.0
